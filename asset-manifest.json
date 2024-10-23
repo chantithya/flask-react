@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flask-react/static/css/main.5a2a2d6b.css",
+    "main.js": "/flask-react/static/js/main.bdcc9205.js",
+    "static/js/453.8ab44547.chunk.js": "/flask-react/static/js/453.8ab44547.chunk.js",
+    "index.html": "/flask-react/index.html",
+    "main.5a2a2d6b.css.map": "/flask-react/static/css/main.5a2a2d6b.css.map",
+    "main.bdcc9205.js.map": "/flask-react/static/js/main.bdcc9205.js.map",
+    "453.8ab44547.chunk.js.map": "/flask-react/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a2a2d6b.css",
+    "static/js/main.bdcc9205.js"
+  ]
+}
